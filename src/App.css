@@ -1,0 +1,19 @@
+.cart{
+  border: 5px solid red;
+  display: flex;
+  padding: 1%;
+}
+
+.img-container{
+  display: flex;
+}
+
+.cart-container{
+  display: flex;
+  padding-left: 4%;
+}
+
+.cabs, .protens, .fats{
+  display:flex;
+  justify-content: space-around;
+}
